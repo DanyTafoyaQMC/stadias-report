@@ -6,26 +6,27 @@ const data = {
           {
             "date": "Martes 2 de enero",
             "yesterday": `
-              Me prepare y di lectura a la documentación de javascript, css, html, handlebars, bootstrap y express.
+              Me preparé y di lectura a la documentación de javascript, css, html, handlebars, bootstrap y express.
             `,
             "today": `
-               Iniciare la identificación de requisitos y funcionalidades de la lógica de negocio y la base de datos.										
-										
-
+               Iniciaré la identificación de requisitos y funcionalidades de la lógica de negocio y la base de datos.
             `,
             "problems": `
-            
+              La base de datos es demasiado extensa para la lectura rápida y la identifiación de requisitos.
             `
           },
           {
             "date": "Miércoles 3 de enero",
-            "yesterday": ``
-
-
-
-,
-            "today": ``,
-            "problems": ``
+            "yesterday": `
+              Inicié la lectura de la base de datos, asi como la identificación de la lógica de negocio. Comencé a identificar la arquitectura del sistema.
+            `,
+            "today": `
+              Comenzaré la implementación de la arquitectura del sistema MCV para tener mayor control de los datos, solo me encargaré de la parte de las conexiones
+              con el backend. Es decir preparar el proyecto con las capas modelo, servicio, ruta y controlador.
+            `,
+            "problems": `
+              No se ha presentado ningun impedimento.
+            `
           },
           {
             "date": "Jueves 4 de enero",
